@@ -41,6 +41,6 @@ TODO: Write one paragraph as a complete response to this question.
 
 TODO: Write one paragraph as a complete response to this question.
 
-### Compare and contrast the use of Pytest and the "tests" in these programs
+### How are the tests in this assignment different from the tests in fibonacci or integer squaring?
 
 TODO: Write one paragraph as a complete response to this question.
